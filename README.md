@@ -1,54 +1,49 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+# 🍽️ grilli - A Fusion of Flavor & Elegance  
 
-  <br />
-  <br />
+**grilli** is a modern and elegant restaurant website designed to provide a seamless online experience for food lovers. Featuring a stylish interface, dynamic animations, and interactive elements, this website ensures an engaging and delightful browsing experience for visitors.  
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+--- 
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## 🎨 Why grilli?  
+**grilli** is more than just a website; it's a digital experience that reflects the warmth and richness of a fine dining restaurant. This project was built from scratch with **attention to detail**, ensuring that every element is both aesthetically pleasing and functionally superior.  
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+### 🔹 **Unique Features & Innovations:**  
+✔️ **Brand-New UI & Visual Identity** - Custom-designed layout with an exclusive color palette 🎨  
+✔️ **Fresh Typography & Font Styles** - Handpicked fonts to match the restaurant’s luxurious theme 🔠  
+✔️ **Original Content & Imagery** - Carefully curated descriptions, menu items, and testimonials 🍽️  
+✔️ **Enhanced JavaScript Animations** - Custom transitions, hover effects, and parallax scrolling 🎞️  
+✔️ **Intuitive User Experience** - Easy-to-navigate sections with optimized design 📌  
 
-</div>
+---
 
-<br />
+## 🛠️ Built With  
+- **HTML5** - Structured and semantic markup  
+- **CSS3** - Custom styling with Flexbox, Grid, and animations  
+- **JavaScript (ES6)** - Interactive elements and dynamic features  
+- **GSAP & AOS** - Modern animations and scrolling effects  
+- **Google Fonts & FontAwesome** - Stylish typography and icons  
 
-### Demo Screeshots
+---
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## 🔗 Live Demo  
+🔹 Experience the live website here: **[grilli](https://sumitbhateja5.github.io/grillonfire/)**  
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 📜 How to Run Locally  
+1️⃣ Clone this repository:  
+   ```bash
+   git clone https://sumitbhateja5.github.io/grillonfire/
+2️⃣ Navigate to the project folder:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+bash
+Copy
+Edit
+cd grilli
+3️⃣ Open index.html in a browser to view the site.
 
-### Run Locally
-
-To run **Grilli** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+🚀 Future Enhancements
+🔹 Online Reservation System - Let customers book tables seamlessly 📅
+🔹 Customer Review Integration - Display real-time testimonials ⭐
+🔹 Food Ordering Feature - Enable users to place online orders 🛒
+🔹 Multi-Language Support - Cater to a diverse audience 🌍
